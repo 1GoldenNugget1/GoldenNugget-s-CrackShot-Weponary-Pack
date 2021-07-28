@@ -1,4 +1,4 @@
-# GoldenNugget-s-CrackShot-Weponary-Pack
+ GoldenNugget-s-CrackShot-Weponary-Pack
 
 
 ChangeLog Alpha 0.1
