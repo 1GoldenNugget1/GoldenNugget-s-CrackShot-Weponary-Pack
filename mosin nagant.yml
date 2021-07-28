@@ -1,0 +1,40 @@
+Mosin Nagant:
+  Item_Information:
+   Item_Name: "&eMosin-Nagant"
+   Item_Type: 2260
+   Item_Lore: "&eThe 3-line rifle M1891|&eColloquially (but mistakenly) known in the west as Mosin_Nagant|&eChambered with 7,62 × 54 mm R cartridge"
+   Sounds_Acquired: BAT_TAKEOFF-1-1-0
+  Shooting:
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 1
+        Recoil_Amount: 1.5
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 40
+        Projectile_Damage: 9
+        Bullet_Spread: 0.80
+        Sounds_Shoot: ZOMBIE_WOOD-1-2-0,ZOMBIE_WOOD-1-0-0
+  Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 0.5
+  Reload:
+        Enable: true
+        Starting_Amount: 0
+        Reload_Amount: 5
+        Take_Ammo_On_Reload: true
+        Reload_Bullets_Individually: true 
+        Reload_Duration: 15
+        Sounds_Out_Of_Ammo: CLICK-1-1-0
+        Sounds_Reloading: DOOR_OPEN-1-2-4,DOOR_OPEN-1-2-8,DOOR_CLOSE-1-2-23,DOOR_CLOSE-1-2-38
+  Firearm_Action:
+       Type: bolt 
+       Open_Duration: 10
+       Close_Duration: 11
+       Sound_Open: CLICK-1-1-0
+       Sound_Close: DOOR_CLOSE 1-0-0
+       
+        
+  
+  
