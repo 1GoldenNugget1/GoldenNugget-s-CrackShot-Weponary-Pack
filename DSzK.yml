@@ -13,7 +13,7 @@ DSzK:
         Projectile_Amount: 1
         Projectile_Type: arrow
         Projectile_Speed: 40
-        Projectile_Damage: 50
+        Projectile_Damage: 47 
         Projectile_Flames: false 
         Projectile_Incendiary:
             Enable: true
@@ -26,7 +26,7 @@ DSzK:
         Bullet_Spread: 0.70
     Fully_Automatic:
         Enable: true
-        Fire_Rate: 16
+        Fire_Rate: 15
     Reload:
         Enable: true
         Starting_Amount: 0

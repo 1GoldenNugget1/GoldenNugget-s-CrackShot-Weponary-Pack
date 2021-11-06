@@ -30,7 +30,7 @@ Mosin Nagant:
         Sounds_Reloading: DOOR_OPEN-1-2-4,DOOR_OPEN-1-2-8,DOOR_CLOSE-1-2-23,DOOR_CLOSE-1-2-38
   Firearm_Action:
        Type: bolt 
-       Open_Duration: 10
+       Open_Duration: 11
        Close_Duration: 11
        Sound_Open: CLICK-1-1-0
        Sound_Close: DOOR_CLOSE 1-0-0
